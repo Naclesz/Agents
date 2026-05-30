@@ -19,6 +19,18 @@ Wiki personal para organizar conocimiento de lecturas: artículos, libros, tweet
    - Páginas de conceptos en `wiki/conceptos/`
    - Actualización del índice y log
 
+**Capturar artículos web:**
+
+Para guardar artículos de páginas web se recomienda usar [Obsidian Web Clipper](https://obsidian.md/clipper). Esta extensión de navegador permite:
+
+- Capturar el contenido de cualquier página con un clic
+- Convertir automáticamente el HTML a Markdown limpio
+- Extraer metadatos (título, autor, fecha, URL) sin esfuerzo manual
+- Guardar directamente en la carpeta `raw/` de tu vault
+- Personalizar plantillas para que el archivo ya tenga el formato YAML requerido
+
+Configura una plantilla en Web Clipper que genere el frontmatter esperado y tendrás un flujo de captura instantáneo: ves un artículo interesante, lo clippeas, y queda listo para que Claude lo ingeste.
+
 **Uso básico:**
 
 ```
