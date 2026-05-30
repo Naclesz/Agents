@@ -1,0 +1,13 @@
+# Configuración local de Claude
+.claude/settings.local.json
+
+# Configuración de Obsidian
+.obsidian/
+
+# Contenido de raw/ y wiki/ (mantener carpetas vacías)
+raw/*
+wiki/*
+
+# Mantener las carpetas con .gitkeep
+!raw/.gitkeep
+!wiki/.gitkeep
