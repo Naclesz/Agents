@@ -6,7 +6,7 @@ Colección de agentes y herramientas de IA diseñados para automatizar y asistir
 
 ### Second Brain
 
-Wiki personal para organizar conocimiento de lecturas: artículos, libros, tweets, videos y podcasts.
+Wiki personal para organizar conocimiento de lecturas: artículos, libros, tweets, transcripciones de videos y podcasts.
 
 **Finalidad:** Convertir el consumo pasivo de contenido en conocimiento estructurado y conectado. Claude actúa como motor de ingesta que analiza las fuentes, extrae conceptos clave, genera resúmenes y mantiene las conexiones entre ideas.
 
@@ -45,6 +45,7 @@ Configura una plantilla en Web Clipper que genere el frontmatter esperado y tend
 ```
 
 **Requisitos:**
+
 - [Claude Code](https://github.com/anthropics/claude-code) instalado
 - Ejecutar Claude Code desde el directorio `Second Brain/`
 
